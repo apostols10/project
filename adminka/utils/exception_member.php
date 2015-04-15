@@ -6,7 +6,7 @@
   // http://www.softtime.ru   - портал по Web-программированию
   // http://www.softtime.biz  - коммерческие услуги
   // http://www.softtime.mobi - мобильные проекты
-  // http://www.softtime.org  - некоммерческие проектыgg
+  // http://www.softtime.org  - некоммерческие проекты
   ////////////////////////////////////////////////////////////
   // Выставляем уровень обработки ошибок 
   // (http://www.softtime.ru/info/articlephp.php?id_article=23)
